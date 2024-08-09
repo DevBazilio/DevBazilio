@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Yurii  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Student of an IT university in Ukraine 🇺🇦</h3>
 
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
