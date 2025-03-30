@@ -4,11 +4,6 @@
 ⚡ Fun fact<br>I enjoy combining backend efficiency with smart automation to bring bots to life.<br><br>
 📬 Get in touch<br>Let’s connect via my website: [dev-bazilio.tech](https://dev-bazilio.tech/)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/573093619687489536) 
-[![Telegram](https://img.shields.io/badge/Telegram-%237289DA.svg?logo=telegram&logoColor=white)](https://t.me/Kot0891)
-
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-4479A1.svg?style=for-the-badge&logo=python&logoColor=white) 
